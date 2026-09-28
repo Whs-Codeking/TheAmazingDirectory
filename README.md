@@ -20,7 +20,7 @@ Tools that turn public registers and government data into something citizens, jo
 
 ## Home Services
 
-- **[majstor.bg](https://www.majstor.bg)** — Bulgarian marketplace where homeowners post a job for free, compare offers from verified local tradespeople and pay through the platform once they are satisfied with the work. `Free tier` `🇧🇬`
+- **[majstor.bg](https://www.majstor.bg)** — Bulgarian marketplace where homeowners post a job for free, compare offers from verified local tradespeople and pay through the platform once they are satisfied with the work. `Free` `🇧🇬`
 
 ## Invoicing & Accounting
 
