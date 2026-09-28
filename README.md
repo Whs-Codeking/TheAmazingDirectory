@@ -6,6 +6,7 @@ Makers and users are welcome to add listings through pull requests.
 ## Contents
 
 - [Civic Tech & Open Data](#civic-tech--open-data)
+- [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
@@ -16,6 +17,10 @@ Makers and users are welcome to add listings through pull requests.
 Tools that turn public registers and government data into something citizens, journalists and researchers can search and verify.
 
 - **[Media Radar](https://edufacturing.com/en/tools/media-radar/)** — Shows who funds Bulgarian media: search 272 outlets and 133 ad agencies across state advertising, EU publicity funding, election media packages and Art. 7a declarations, with ownership traced through the Commercial Register and every figure linked to its source. `Free` `🇧🇬`
+
+## Home Services
+
+- **[majstor.bg](https://www.majstor.bg)** — Bulgarian marketplace where homeowners post a job for free, compare offers from verified local tradespeople and pay through the platform once they are satisfied with the work. `Free tier` `🇧🇬`
 
 ## Invoicing & Accounting
 
