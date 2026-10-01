@@ -29,7 +29,7 @@ Tools that turn public registers and government data into something citizens, jo
 
 ## Invoicing & Accounting
 
-- **[fakturcho.com](https://www.fakturcho.com)** — Bulgarian-language web app for invoices, proformas, credit/debit notes and quotes under Bulgarian VAT rules (gapless sequential numbering, amounts in EUR, Cyrillic PDF); pay-per-document pricing with a small starting credit. `Paid` `🇧🇬`
+- **[fakturcho.com](https://www.fakturcho.com)** — Web app for EU businesses to issue invoices, proformas, credit and debit notes and quotes that meet EU requirements, with EN 16931 e-invoicing, in Bulgarian, English, German, French, Italian, Polish and Romanian; 0.10 € per issued document with 1.00 € starting credit and no subscription. `Paid` `🇪🇺`
 
 ## How to add a listing
 
