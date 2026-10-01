@@ -8,6 +8,7 @@ Makers and users are welcome to add listings through pull requests.
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
+- [Productivity & File Tools](#productivity--file-tools)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
@@ -21,6 +22,10 @@ Tools that turn public registers and government data into something citizens, jo
 ## Home Services
 
 - **[majstor.bg](https://www.majstor.bg)** — Bulgarian marketplace where homeowners post a job for free, compare offers from verified local tradespeople and pay through the platform once they are satisfied with the work. `Free` `🇧🇬`
+
+## Productivity & File Tools
+
+- **[FileOnTap](https://fileontap.com/)** — Browser-based image and PDF conversion that keeps files in the browser. `Free`
 
 ## Invoicing & Accounting
 
