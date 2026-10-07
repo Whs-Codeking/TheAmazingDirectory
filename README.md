@@ -5,6 +5,7 @@ Makers and users are welcome to add listings through pull requests.
 
 ## Contents
 
+- [AI Creative Tools](#ai-creative-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
@@ -12,6 +13,10 @@ Makers and users are welcome to add listings through pull requests.
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
+
+## AI Creative Tools
+
+- **[aigeneratornsfw.com](https://aigeneratornsfw.com/)** — An 18+ AI studio for non-explicit images, reference editing and short video creation, with 10 daily image credits for registered accounts and paid video access. `Free tier`
 
 ## Civic Tech & Open Data
 
