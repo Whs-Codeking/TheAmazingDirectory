@@ -5,6 +5,7 @@ Makers and users are welcome to add listings through pull requests.
 
 ## Contents
 
+- [AI Creative Tools](#ai-creative-tools)
 - [Civic Tech & Open Data](#civic-tech--open-data)
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
@@ -12,6 +13,10 @@ Makers and users are welcome to add listings through pull requests.
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
+
+## AI Creative Tools
+
+- **[BabyVideo.ai](https://babyvideo.ai/)** — Creates playful future-baby previews and baby-themed photo videos from permitted photos for family entertainment, not medical or genetic prediction, with account-based credits and a limited check-in trial. `Paid`
 
 ## Civic Tech & Open Data
 
