@@ -26,6 +26,7 @@ Tools that turn public registers and government data into something citizens, jo
 ## Productivity & File Tools
 
 - **[FileOnTap](https://fileontap.com/)** — Browser-based image and PDF conversion that keeps files in the browser. `Free`
+- **[Fomrix](https://fomrix.com/)** — Browser-based 3D asset tools for designers and makers, with free STL/GLB/OBJ viewing and GLB-to-STL conversion alongside account-and-credit AI generation whose geometry needs review. `Free tier`
 
 ## Invoicing & Accounting
 
